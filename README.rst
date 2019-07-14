@@ -4,6 +4,8 @@
 .. image:: https://travis-ci.org/fcollman/render-python.svg?branch=master
    :target: https://travis-ci.org/fcollman/render-python
    :alt: Build Status
+   
+.. image:: https://img.shields.io/pypi/dm/render-python.svg
 
 render-python
 #############
